@@ -31,10 +31,24 @@ p {
   opacity: 1.0;
 }
 
+h4  {
+  color: rgb(63, 128, 128);
+  font-family: sans-serif;
+  font-weight: 100;
+  font-style: oblique;
+}
+
 h5 {
   text-align: center;
 }
 
 a {
   color: red;
+}
+
+.row {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
